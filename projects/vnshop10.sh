@@ -5,7 +5,7 @@ WEB_PATH_CLIENT='/home/wwwroot/vnshop/client'
 WEB_USER='www'
 WEB_USERGROUP='www'
 # we can do 
-echo "Start deployment vx.itnote.cn"
+echo "Start deployment vx.lshuai.top"
 cd $WEB_PATH
 echo "pulling source code..."
 # git reset --hard origin/release
